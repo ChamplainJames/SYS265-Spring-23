@@ -1,6 +1,6 @@
 @startuml
 
-title SYS-265-01 Final Project:\nBest Team's Network Diagram
+title SYS-265-01 Final Project:\ Network Diagram
 
 legend
   Windows = Rectangle
